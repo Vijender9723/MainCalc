@@ -1,0 +1,6 @@
+C:\Users\vijay\source\repos\ScientificDLL\bin\Debug\ScientificDLL.dll
+C:\Users\vijay\source\repos\ScientificDLL\bin\Debug\ScientificDLL.pdb
+C:\Users\vijay\source\repos\ScientificDLL\obj\Debug\ScientificDLL.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\ScientificDLL\obj\Debug\ScientificDLL.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\ScientificDLL\obj\Debug\ScientificDLL.dll
+C:\Users\vijay\source\repos\ScientificDLL\obj\Debug\ScientificDLL.pdb

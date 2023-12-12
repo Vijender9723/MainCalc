@@ -1,0 +1,6 @@
+C:\Users\vijay\source\repos\LibraryCalc\bin\Debug\LibraryCalc.dll
+C:\Users\vijay\source\repos\LibraryCalc\bin\Debug\LibraryCalc.pdb
+C:\Users\vijay\source\repos\LibraryCalc\obj\Debug\LibraryCalc.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\LibraryCalc\obj\Debug\LibraryCalc.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\LibraryCalc\obj\Debug\LibraryCalc.dll
+C:\Users\vijay\source\repos\LibraryCalc\obj\Debug\LibraryCalc.pdb
